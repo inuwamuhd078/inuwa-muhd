@@ -10,7 +10,3 @@ this repository is an introduction to who Muhammed Inuwa is
 ### siklls: frontend
 
 ## contact: inuwamuhammed89@gmail.com, 08052587667
-
-### Subsection
-
-### Subsection
